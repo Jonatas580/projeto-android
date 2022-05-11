@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Orgs</string>
     <string name="formulario_de_produto">Formulario de produto</string>
+    <string name="descricao">Descricao</string>
 </resources>
